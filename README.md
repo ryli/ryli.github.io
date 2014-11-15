@@ -1,4 +1,4 @@
 ryli.github.io
 ==============
-###There is something wrong with my github page , always 404. -_-
+###寇可往，吾亦可往
 ###[ryli.github.io](https://ryli.github.io)

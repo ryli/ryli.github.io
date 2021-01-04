@@ -10,7 +10,7 @@
 <script>
 
 export const data = {
-  title: 'YAF.L',
+  title: 'home',
   layout: 'home',
   injectAllPosts: true
 }

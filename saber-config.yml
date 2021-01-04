@@ -1,0 +1,31 @@
+siteConfig:
+  title: YAF
+  # description: About this website..
+  # author: My Name
+  # email: my@email.com
+
+permalinks:
+  post: /blog/:slug
+  page: /:slug
+
+theme: ./theme/dist
+# theme: tailsaw
+
+themeConfig:
+  nav:
+    -
+      text: 'About'
+      link: '/about/'
+    -
+      text: 'Github'
+      link: 'https://github.com/ryli'
+
+plugins:
+  -
+    resolve: saber-plugin-query-posts
+    options:
+      paginationOptions:
+        perPage: 2
+  - resolve: saber-plugin-prismjs
+  # If you want to enable local search:
+  - resolve: saber-plugin-search

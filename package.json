@@ -1,0 +1,29 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "saber",
+    "build": "saber build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public -t",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ELEVEN <lov.2014@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nprogress": "^0.2.0",
+    "prismjs": "^1.23.0",
+    "saber": "^0.11.7",
+    "saber-plugin-feed": "^0.4.3",
+    "saber-plugin-prismjs": "^0.2.4",
+    "saber-plugin-query-posts": "^0.4.6",
+    "saber-plugin-search": "^1.0.0",
+    "saber-theme-tailsaw": "^1.4.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}

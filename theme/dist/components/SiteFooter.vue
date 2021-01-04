@@ -5,8 +5,8 @@
   >
     <ul class="flex flex-col md:flex-row justify-center list-none p0">
       <li class="md:mr-2">
-        &copy; {{ new Date().getFullYear() }}
-        <a href="https://saber.land" title="Saber">Built with Saber</a>.
+        &copy; {{ new Date().getFullYear() }} Built with
+        <a href="https://saber.land" title="Saber">Saber</a>.
       </li>
 
       <!-- <li class="md:mr-2">

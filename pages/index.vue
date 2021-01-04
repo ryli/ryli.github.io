@@ -10,7 +10,6 @@
 <script>
 
 export const data = {
-  title: 'home',
   layout: 'home',
   injectAllPosts: true
 }

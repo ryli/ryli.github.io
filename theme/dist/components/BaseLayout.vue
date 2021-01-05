@@ -1,14 +1,14 @@
-<template>  
+<template>
   <div class="app">
     <SiteHeader />
-  
+
     <main
       class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6"
       role="main"
     >
       <slot />
     </main>
-  
+
     <SiteFooter />
   </div>
 </template>

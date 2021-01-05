@@ -11,11 +11,11 @@
             :title="$siteConfig.title"
             class="inline-flex items-center"
           >
-            <img
+            <!-- <img
               class="h-8 md:h-10 mr-3"
               src="../assets/img/logo.svg"
               :alt="$siteConfig.title"
-            />
+            /> -->
 
             <h1
               class="text-lg md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0"

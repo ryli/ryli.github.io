@@ -16,9 +16,9 @@ themeConfig:
     -
       text: 'About'
       link: '/about/'
-    -
-      text: 'Github'
-      link: 'https://github.com/ryli'
+    # -
+    #   text: 'Github'
+    #   link: 'https://github.com/ryli'
 
 plugins:
   -

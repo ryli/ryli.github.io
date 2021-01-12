@@ -19,6 +19,10 @@ Your answer is:
 
 <button class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded" @click="getAnAnswer">Get an answer</button>
 
+<br/>
+
+PS: The cover picture is from game [Trivia](https://www.amazon.com/DH3-Games-Yes-Or-No/dp/B01IM324P0).
+
 <script>
 export default {
   data() {

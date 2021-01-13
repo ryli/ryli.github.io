@@ -8,7 +8,7 @@ categories:
   - idea
 slug: yes-or-no
 assets:
-  cover: ./yes-or-no.png
+  cover: ./img/yes-or-no.png
 ---
 
 Get an answer to your question using the Yes/No generator!

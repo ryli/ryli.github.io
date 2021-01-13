@@ -5,7 +5,7 @@ date: 2021-01-01
 layout: post
 author: yaf
 assets:
-  cover: ./first-post.png
+  cover: ./img/first-post.png
 ---
 
 

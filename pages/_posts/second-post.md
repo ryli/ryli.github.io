@@ -8,7 +8,7 @@ categories:
   - bar
 slug: second-post
 assets:
-  cover: ./second-post.png
+  cover: ./img/first-post.png
 ---
 
 This is the second post. Hope this is not getting too repetitive!

@@ -7,7 +7,7 @@ categories:
   - story
 slug: little-prince
 assets:
-  cover: ./little-prince.jpg
+  cover: ./img/little-prince.jpg
 featured: true
 ---
 

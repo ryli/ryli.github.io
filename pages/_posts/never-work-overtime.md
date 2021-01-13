@@ -7,7 +7,7 @@ categories:
   - flag
 slug: never-work-overtime
 assets:
-  cover: ./img/work.png
+  cover: ./img/work.jpg
 ---
 
 “加班去死！”，这是我几年前看《极限挑战》时，[小宁子](https://space.bilibili.com/27899754)在进行声音分贝高低的小游戏时喊得话，游戏结果和其他我都忘记了，只有这一声喊话划破了当时的黑夜，也深深刺痛了我。
